@@ -9,3 +9,6 @@ h5 { color: #990066; text-decoration: italic; }
 .verse { padding: 10px 30px; }
 
 .refrain { padding: 0 60px; }
+
+.test { display: -webkit-box; display: -ms-flexbox; display: flex; -ms-flex-wrap: wrap; flex-wrap: wrap; }
+/*# sourceMappingURL=style.css.map */
